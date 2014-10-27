@@ -24,3 +24,5 @@ with open('data.txt','r') as inf:
 print dicts_from_file[int(fortigate_model)-1]
 
 #Added some cool stuff
+
+#Added some more cool stuff this time from github
